@@ -12,9 +12,9 @@ int main(void)
 	/* your code goes there */
 	
 	if(n>0){
-		printf("positif");
+		printf("is positif");
 	}else if(n=0) {
 		printf("is zero");
-	}else pfrintf("negarif");
+	}else pfrintf("is negatif");
 	return (0);
 }
