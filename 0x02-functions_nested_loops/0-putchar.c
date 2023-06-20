@@ -7,7 +7,7 @@
 
  /** 
  * main-print putchar followed by a new line
- * 
+ * main.h 
  *Return :always 0
  */
   int main(void) 
