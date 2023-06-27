@@ -1,11 +1,10 @@
 #include "main.h"
-
-//Mouataz Billah Fachatti
-
 /**
- *@n: An integer input pointer
+ * reset_to_98 - determine value of pointer
+ * @n: integer variable
  */
-
-void reset_to_98(int *n){
-	*n=98;}
+void reset_to_98(int *n)
+{
+	*n = 98;
+}
 
