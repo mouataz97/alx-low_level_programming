@@ -1,7 +1,6 @@
 #include "main.h"
 
 // Work Hard, is a bless not everyone can do
-
 /**
  * @n: An integer input pointer
  */
