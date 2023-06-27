@@ -1,11 +1,11 @@
 #include "main.h"
 
-// Work Hard, is a bless not everyone can do
+//Mouataz Billah Fachatti
+
 /**
- * @n: An integer input pointer
+ *@n: An integer input pointer
  */
-void reset_to_98(int *n)
-{
-	*n = 98;
-}
+
+void reset_to_98(int *n){
+	*n=98;}
 
