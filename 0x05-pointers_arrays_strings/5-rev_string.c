@@ -7,15 +7,16 @@
   */
 void rev_string(char *s)
 {
-	int swap;
 	int i = 0;
+
 	while (s[i])
 		i++;
 	
-	while (i--)
+	do
 	{
 		_putchar(s[i]);
-	}
+		i--;
+	}while(i>=0)
 	_putchar('/n');
 }
 
