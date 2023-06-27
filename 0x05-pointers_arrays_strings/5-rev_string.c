@@ -5,7 +5,7 @@
   * @s: pointer to the string to point
   * Return: void
   */
-void _print_rev(char *s)
+void rev_string(char *s)
 {
 	int swap;
 	int i = 0;
